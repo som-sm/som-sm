@@ -1,4 +1,7 @@
-## Hi there 👋
+##### Hi 👋, I’m Som — a passionate web developer and TypeScript enthusiast 🚀
+
+##### Currently maintaining two of the most popular TypeScript utility libraries: [type-fest](https://github.com/sindresorhus/type-fest) and [ts-essentials](https://github.com/ts-essentials/ts-essentials). Checkout my contributions: ([type-fest](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3Asom-sm+is%3Aclosed)) and ([ts-essentials](https://github.com/ts-essentials/ts-essentials/pulls?q=is%3Apr+is%3Aclosed+author%3Asom-sm)).
+
 
 <!--
 **som-sm/som-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
