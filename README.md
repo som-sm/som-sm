@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- OSS_CONTRIBUTIONS:START -->
-## 🧩 My Closed Pull Requests
+<!-- OSS_CONTRIBUTIONS:START -->## 🧩 Open Source Contributions:
 
 ### sindresorhus/type-fest
-
 - **Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks** — [#1320](https://github.com/sindresorhus/type-fest/pull/1320)
 - **Fix `validate-jsdoc-codeblocks` rule to run diagnostics using latest file contents** — [#1310](https://github.com/sindresorhus/type-fest/pull/1310)
 - **Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks** — [#1309](https://github.com/sindresorhus/type-fest/pull/1309)
@@ -38,11 +36,7 @@ Here are some ideas to get you started:
 - **Add `ArrayReverse` type** — [#1266](https://github.com/sindresorhus/type-fest/pull/1266)
 - **Add lint rule to validate JSDoc codeblocks using TS compiler** — [#1265](https://github.com/sindresorhus/type-fest/pull/1265)
 - **`UnionToIntersection`: Fix incorrect test case** — [#1260](https://github.com/sindresorhus/type-fest/pull/1260)
-
-[View remaining 81 PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
-
-### ts-essentials/ts-essentials
-
+[View remaining 81 PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)### ts-essentials/ts-essentials
 - **fix: `Prettify` when instantiated with classes containing private/protected members** — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - **Fix: `IsTuple<Type>` when `Type` is an array containing rest element** — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
 - **Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element** — [#435](https://github.com/ts-essentials/ts-essentials/pull/435)
@@ -54,28 +48,14 @@ Here are some ideas to get you started:
 - **Fix: Failing `test:fix` script** — [#417](https://github.com/ts-essentials/ts-essentials/pull/417)
 - **Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures** — [#416](https://github.com/ts-essentials/ts-essentials/pull/416)
 - **Fix: Behaviour of `Prettify` when instantiated with functions** — [#415](https://github.com/ts-essentials/ts-essentials/pull/415)
-- **Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays** — [#414](https://github.com/ts-essentials/ts-essentials/pull/414)
-
-### orta/vscode-twoslash-queries
-
+- **Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays** — [#414](https://github.com/ts-essentials/ts-essentials/pull/414)### orta/vscode-twoslash-queries
 - **Remove extra spaces from inlay hint** — [#46](https://github.com/orta/vscode-twoslash-queries/pull/46)
 - **Allow `CMD+6` shortcut to position queries based on previous line's first available hint** — [#44](https://github.com/orta/vscode-twoslash-queries/pull/44)
 - **Disable inlay hints when there are characters following ^?** — [#42](https://github.com/orta/vscode-twoslash-queries/pull/42)
-- **Add command for inline comment (// =>)** — [#41](https://github.com/orta/vscode-twoslash-queries/pull/41)
-
-### sindresorhus/eslint-plugin-unicorn
-
+- **Add command for inline comment (// =>)** — [#41](https://github.com/orta/vscode-twoslash-queries/pull/41)### sindresorhus/eslint-plugin-unicorn
 - **`prefer-string-raw`: Refactor implementation of helper function** — [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692)
 - **`prefer-string-raw`: Add support for template literals** — [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691)
-- **Add more test cases for `prefer-string-raw` rule** — [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690)
-
-### xojs/xo
-
+- **Add more test cases for `prefer-string-raw` rule** — [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690)### xojs/xo
 - **Fix: Behaviour of `print-config` option with relative file path** — [#816](https://github.com/xojs/xo/pull/816)
-- **Fix: Error while loading configs with custom plugins** — [#805](https://github.com/xojs/xo/pull/805)
-
-### DavidHDev/haiku
-
-- **Fix `useLeaveDetection` to always invoke latest callback** — [#123](https://github.com/DavidHDev/haiku/pull/123)
-
-<!-- OSS_CONTRIBUTIONS:END -->
+- **Fix: Error while loading configs with custom plugins** — [#805](https://github.com/xojs/xo/pull/805)### DavidHDev/haiku
+- **Fix `useLeaveDetection` to always invoke latest callback** — [#123](https://github.com/DavidHDev/haiku/pull/123)<!-- OSS_CONTRIBUTIONS:END -->
