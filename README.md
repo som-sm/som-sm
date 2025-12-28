@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
  [View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
-- **fix: `Prettify` when instantiated with classes containing private/protected members** — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
+- **Fix: `Prettify` when instantiated with classes containing private/protected members** — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - **Fix: `IsTuple<Type>` when `Type` is an array containing rest element** — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
 - **Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element** — [#435](https://github.com/ts-essentials/ts-essentials/pull/435)
 - **Fix: `Head` type with union of empty and non-empty tuple** — [#425](https://github.com/ts-essentials/ts-essentials/pull/425)
