@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - **Add `ArrayReverse` type** — [#1266](https://github.com/sindresorhus/type-fest/pull/1266)
 - **Add lint rule to validate JSDoc codeblocks using TS compiler** — [#1265](https://github.com/sindresorhus/type-fest/pull/1265)
 - **`UnionToIntersection`: Fix incorrect test case** — [#1260](https://github.com/sindresorhus/type-fest/pull/1260)
+
 [View remaining 81 PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
 ### ts-essentials/ts-essentials
 - **fix: `Prettify` when instantiated with classes containing private/protected members** — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
