@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element — [#435](https://github.com/ts-essentials/ts-essentials/pull/435)
 - Fix: `Head` type with union of empty and non-empty tuple — [#425](https://github.com/ts-essentials/ts-essentials/pull/425)
 - Fix: `Tail` with optional, readonly and non-tuple arrays — [#424](https://github.com/ts-essentials/ts-essentials/pull/424)
-- Feat: Prettify output of Mark-\* & Merge types — [#422](https://github.com/ts-essentials/ts-essentials/pull/422)
+- Feat: Prettify output of Mark-* & Merge types — [#422](https://github.com/ts-essentials/ts-essentials/pull/422)
 - Fix: `MarkRequired` and `MarkWritable` types when `Keys` is `any` — [#421](https://github.com/ts-essentials/ts-essentials/pull/421)
 - Fix: Make `MarkOptional<Type, Keys extends keyof Type>` assignable to `Partial<Type>` — [#418](https://github.com/ts-essentials/ts-essentials/pull/418)
 - Fix: Failing `test:fix` script — [#417](https://github.com/ts-essentials/ts-essentials/pull/417)
