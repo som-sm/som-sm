@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - **Add lint rule to validate JSDoc codeblocks using TS compiler** — [#1265](https://github.com/sindresorhus/type-fest/pull/1265)
 - **`UnionToIntersection`: Fix incorrect test case** — [#1260](https://github.com/sindresorhus/type-fest/pull/1260)
 
- [View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
+	[View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
 - **Fix: `Prettify` when instantiated with classes containing private/protected members** — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - **Fix: `IsTuple<Type>` when `Type` is an array containing rest element** — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
