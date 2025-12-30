@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Add lint rule to validate JSDoc codeblocks using TS compiler — [#1265](https://github.com/sindresorhus/type-fest/pull/1265)
 - `UnionToIntersection`: Fix incorrect test case — [#1260](https://github.com/sindresorhus/type-fest/pull/1260)
 
- [View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Aclosed%20author%3Asom-sm)
+ [View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
 - Fix: `Prettify` when instantiated with classes containing private/protected members — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - Fix: `IsTuple<Type>` when `Type` is an array containing rest element — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 - Fix: Behaviour of `Prettify` when instantiated with functions — [#415](https://github.com/ts-essentials/ts-essentials/pull/415)
 - Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays — [#414](https://github.com/ts-essentials/ts-essentials/pull/414)
 ### 📦 orta/vscode-twoslash-queries
-- Remove extra spaces from inlay hint — [#46](https://github.com/orta/vscode-twoslash-queries/pull/46)
 - Allow `CMD+6` shortcut to position queries based on previous line's first available hint — [#44](https://github.com/orta/vscode-twoslash-queries/pull/44)
 - Disable inlay hints when there are characters following ^? — [#42](https://github.com/orta/vscode-twoslash-queries/pull/42)
 - Add command for inline comment (// =>) — [#41](https://github.com/orta/vscode-twoslash-queries/pull/41)
