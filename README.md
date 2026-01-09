@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ## 🧩 Open Source Contributions
 
 ### 📦 sindresorhus/type-fest
+- Ignore temporary `.d.ts` files from `fixtures` in `xo.config.js` — [#1326](https://github.com/sindresorhus/type-fest/pull/1326)
 - Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks — [#1320](https://github.com/sindresorhus/type-fest/pull/1320)
 - Fix `validate-jsdoc-codeblocks` rule to run diagnostics using latest file contents — [#1310](https://github.com/sindresorhus/type-fest/pull/1310)
 - Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks — [#1309](https://github.com/sindresorhus/type-fest/pull/1309)
@@ -45,9 +46,8 @@ Here are some ideas to get you started:
 - Ensure `import-path` lint rule works on re-exports — [#1267](https://github.com/sindresorhus/type-fest/pull/1267)
 - Add `ArrayReverse` type — [#1266](https://github.com/sindresorhus/type-fest/pull/1266)
 - Add lint rule to validate JSDoc codeblocks using TS compiler — [#1265](https://github.com/sindresorhus/type-fest/pull/1265)
-- `UnionToIntersection`: Fix incorrect test case — [#1260](https://github.com/sindresorhus/type-fest/pull/1260)
 
- [View 81 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
+ [View 82 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
 - Fix: `Prettify` when instantiated with classes containing private/protected members — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - Fix: `IsTuple<Type>` when `Type` is an array containing rest element — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
