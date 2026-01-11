@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - Fix: Behaviour of `Prettify` when instantiated with functions — [#415](https://github.com/ts-essentials/ts-essentials/pull/415)
 - Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays — [#414](https://github.com/ts-essentials/ts-essentials/pull/414)
 ### 📦 orta/vscode-twoslash-queries
+- Fix query insertion with multiple cursors — [#49](https://github.com/orta/vscode-twoslash-queries/pull/49)
 - Allow `CMD+6` shortcut to position queries based on previous line's first available hint — [#44](https://github.com/orta/vscode-twoslash-queries/pull/44)
 - Disable inlay hints when there are characters following ^? — [#42](https://github.com/orta/vscode-twoslash-queries/pull/42)
 - Add command for inline comment (// =>) — [#41](https://github.com/orta/vscode-twoslash-queries/pull/41)
