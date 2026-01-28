@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ## 🧩 Open Source Contributions
 
 ### 📦 sindresorhus/type-fest
+- `SimplifyDeep`: Fix behaviour with arrays — [#1337](https://github.com/sindresorhus/type-fest/pull/1337)
 - `Merge`: Fix behavior with unions — [#1327](https://github.com/sindresorhus/type-fest/pull/1327)
 - Ignore temporary `.d.ts` files from `fixtures` in `xo.config.js` — [#1326](https://github.com/sindresorhus/type-fest/pull/1326)
 - Add `ObjectMerge` type — [#1324](https://github.com/sindresorhus/type-fest/pull/1324)
@@ -45,9 +46,8 @@ Here are some ideas to get you started:
 - `IfNotAnyOrNever`: Add note regarding tail recursion — [#1276](https://github.com/sindresorhus/type-fest/pull/1276)
 - `ExcludeRestElement`: Fix generic assignability with arrays — [#1274](https://github.com/sindresorhus/type-fest/pull/1274)
 - `If`: Add note regarding tail recursion in documentation — [#1269](https://github.com/sindresorhus/type-fest/pull/1269)
-- Ensure `import-path` lint rule works on re-exports — [#1267](https://github.com/sindresorhus/type-fest/pull/1267)
 
- [View 84 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
+ [View 85 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
 - Fix: `Prettify` when instantiated with classes containing private/protected members — [#450](https://github.com/ts-essentials/ts-essentials/pull/450)
 - Fix: `IsTuple<Type>` when `Type` is an array containing rest element — [#436](https://github.com/ts-essentials/ts-essentials/pull/436)
