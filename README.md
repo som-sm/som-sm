@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 <td colspan="2"><a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm">View 87 more PRs</a></td>
 </tr>
 </table>
+
 ### 📦 ts-essentials/ts-essentials
 <table>
 <tr>
@@ -147,6 +148,7 @@ Here are some ideas to get you started:
 <td><a href="https://github.com/ts-essentials/ts-essentials/pull/414">#414</a></td>
 </tr>
 </table>
+
 ### 📦 orta/vscode-twoslash-queries
 <table>
 <tr>
@@ -166,6 +168,7 @@ Here are some ideas to get you started:
 <td><a href="https://github.com/orta/vscode-twoslash-queries/pull/41">#41</a></td>
 </tr>
 </table>
+
 ### 📦 sindresorhus/eslint-plugin-unicorn
 <table>
 <tr>
@@ -181,6 +184,7 @@ Here are some ideas to get you started:
 <td><a href="https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690">#2690</a></td>
 </tr>
 </table>
+
 ### 📦 xojs/xo
 <table>
 <tr>
@@ -192,6 +196,7 @@ Here are some ideas to get you started:
 <td><a href="https://github.com/xojs/xo/pull/805">#805</a></td>
 </tr>
 </table>
+
 ### 📦 DavidHDev/haiku
 <table>
 <tr>
@@ -199,4 +204,5 @@ Here are some ideas to get you started:
 <td><a href="https://github.com/DavidHDev/haiku/pull/123">#123</a></td>
 </tr>
 </table>
+
 <!-- OSS_CONTRIBUTIONS:END -->
