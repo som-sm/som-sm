@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 | `GreaterThanOrEqual` / `LessThan`: Fix behaviour with operands like `N` and `N \| N + >0` | [#1280](https://github.com/sindresorhus/type-fest/pull/1280) |
 | Add `ExclusifyUnion` type | [#1278](https://github.com/sindresorhus/type-fest/pull/1278) |
 | `IfNotAnyOrNever`: Add note regarding tail recursion | [#1276](https://github.com/sindresorhus/type-fest/pull/1276) |
-| [View 87 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | |
+
+ [View 87 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm)
 ### 📦 ts-essentials/ts-essentials
 | PRs | |
 | :--- | :--- |
