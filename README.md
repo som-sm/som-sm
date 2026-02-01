@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 📦 sindresorhus/type-fest
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) |
 | `SimplifyDeep`: Fix behaviour with arrays | [#1337](https://github.com/sindresorhus/type-fest/pull/1337) |
 | Fix incorrect ignore of temporary `.d.ts` files from fixtures in `xo.config.js` | [#1333](https://github.com/sindresorhus/type-fest/pull/1333) |
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 | [View 87 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | |
 ### 📦 ts-essentials/ts-essentials
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) |
 | Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) |
 | Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) |
@@ -66,24 +66,24 @@ Here are some ideas to get you started:
 | Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) |
 ### 📦 orta/vscode-twoslash-queries
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) |
 | Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) |
 | Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) |
 | Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) |
 ### 📦 sindresorhus/eslint-plugin-unicorn
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) |
 | `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) |
 | Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) |
 ### 📦 xojs/xo
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) |
 | Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) |
 ### 📦 DavidHDev/haiku
 | PRs | |
-| --- | --- |
+| :--- | :--- |
 | Fix `useLeaveDetection` to always invoke latest callback | [#123](https://github.com/DavidHDev/haiku/pull/123) |
 <!-- OSS_CONTRIBUTIONS:END -->
