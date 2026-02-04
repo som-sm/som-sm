@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `Paths`: Fix behavior with tuples containing optional elements with a rest element | [#1346](https://github.com/sindresorhus/type-fest/pull/1346) | $\color{green}{+10}$  $\color{red}{-9}$ |
 | `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) | $\color{green}{+52}$  $\color{red}{-46}$ |
 | `SimplifyDeep`: Fix behaviour with arrays | [#1337](https://github.com/sindresorhus/type-fest/pull/1337) | $\color{green}{+12}$  $\color{red}{-10}$ |
 | Fix incorrect ignore of temporary `.d.ts` files from fixtures in `xo.config.js` | [#1333](https://github.com/sindresorhus/type-fest/pull/1333) | $\color{green}{+1}$  $\color{red}{-4}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | `ArraySlice` / `StringSlice`: Fix behaviour with unions | [#1291](https://github.com/sindresorhus/type-fest/pull/1291) | $\color{green}{+102}$  $\color{red}{-7}$ |
 | `GreaterThanOrEqual` / `LessThan`: Fix behaviour with operands like `N` and `N \| N + >0` | [#1280](https://github.com/sindresorhus/type-fest/pull/1280) | $\color{green}{+9}$  $\color{red}{-1}$ |
 | Add `ExclusifyUnion` type | [#1278](https://github.com/sindresorhus/type-fest/pull/1278) | $\color{green}{+206}$  $\color{red}{-0}$ |
-| `IfNotAnyOrNever`: Add note regarding tail recursion | [#1276](https://github.com/sindresorhus/type-fest/pull/1276) | $\color{green}{+28}$  $\color{red}{-2}$ |
-| [View 87 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 88 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
