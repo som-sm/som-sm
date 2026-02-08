@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 | :--- | :--- | :--- |
 | `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}$  $\color{red}{-6}$ |
 | `Paths`: Fix behavior with `WeakMap`s / `WeakSet`s | [#1348](https://github.com/sindresorhus/type-fest/pull/1348) | $\color{green}{+73}$  $\color{red}{-50}$ |
+| Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}$  $\color{red}{-120}$ |
 | `Paths`: Fix behavior with tuples containing optional elements with a rest element | [#1346](https://github.com/sindresorhus/type-fest/pull/1346) | $\color{green}{+10}$  $\color{red}{-9}$ |
 | `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) | $\color{green}{+52}$  $\color{red}{-46}$ |
 | `SimplifyDeep`: Fix behaviour with arrays | [#1337](https://github.com/sindresorhus/type-fest/pull/1337) | $\color{green}{+12}$  $\color{red}{-10}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}$  $\color{red}{-207}$ |
 | Remove `test-export` workflow job | [#1301](https://github.com/sindresorhus/type-fest/pull/1301) | $\color{green}{+0}$  $\color{red}{-10}$ |
 | Add custom processor to lint JSDoc codeblocks | [#1300](https://github.com/sindresorhus/type-fest/pull/1300) | $\color{green}{+2137}$  $\color{red}{-365}$ |
-| `ArraySlice` / `StringSlice`: Fix behaviour with unions | [#1291](https://github.com/sindresorhus/type-fest/pull/1291) | $\color{green}{+102}$  $\color{red}{-7}$ |
-| [View 90 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 91 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
