@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}$  $\color{red}{-12}$ |
+| Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}$  $\color{red}{-60}$ |
 | `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}$  $\color{red}{-6}$ |
 | `Paths`: Fix behavior with `WeakMap`s / `WeakSet`s | [#1348](https://github.com/sindresorhus/type-fest/pull/1348) | $\color{green}{+73}$  $\color{red}{-50}$ |
 | Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}$  $\color{red}{-120}$ |
@@ -47,9 +49,7 @@ Here are some ideas to get you started:
 | Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks | [#1320](https://github.com/sindresorhus/type-fest/pull/1320) | $\color{green}{+135}$  $\color{red}{-33}$ |
 | Fix `validate-jsdoc-codeblocks` rule to run diagnostics using latest file contents | [#1310](https://github.com/sindresorhus/type-fest/pull/1310) | $\color{green}{+6}$  $\color{red}{-0}$ |
 | Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}$  $\color{red}{-207}$ |
-| Remove `test-export` workflow job | [#1301](https://github.com/sindresorhus/type-fest/pull/1301) | $\color{green}{+0}$  $\color{red}{-10}$ |
-| Add custom processor to lint JSDoc codeblocks | [#1300](https://github.com/sindresorhus/type-fest/pull/1300) | $\color{green}{+2137}$  $\color{red}{-365}$ |
-| [View 91 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 93 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
