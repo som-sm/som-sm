@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}$  $\color{red}{-6}$ |
 | `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}$  $\color{red}{-12}$ |
 | Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}$  $\color{red}{-60}$ |
 | `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}$  $\color{red}{-6}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}$  $\color{red}{-1}$ |
 | Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks | [#1320](https://github.com/sindresorhus/type-fest/pull/1320) | $\color{green}{+135}$  $\color{red}{-33}$ |
 | Fix `validate-jsdoc-codeblocks` rule to run diagnostics using latest file contents | [#1310](https://github.com/sindresorhus/type-fest/pull/1310) | $\color{green}{+6}$  $\color{red}{-0}$ |
-| Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}$  $\color{red}{-207}$ |
-| [View 93 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 94 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
