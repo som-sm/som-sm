@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | PRs | | |
 | :--- | :--- | :--- |
 | `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}$  $\color{red}{-6}$ |
+| Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}$  $\color{red}{-16}$ |
 | `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}$  $\color{red}{-12}$ |
 | Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}$  $\color{red}{-60}$ |
 | `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}$  $\color{red}{-6}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | Ignore temporary `.d.ts` files from `fixtures` in `xo.config.js` | [#1326](https://github.com/sindresorhus/type-fest/pull/1326) | $\color{green}{+3}$  $\color{red}{-0}$ |
 | Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}$  $\color{red}{-1}$ |
 | Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks | [#1320](https://github.com/sindresorhus/type-fest/pull/1320) | $\color{green}{+135}$  $\color{red}{-33}$ |
-| Fix `validate-jsdoc-codeblocks` rule to run diagnostics using latest file contents | [#1310](https://github.com/sindresorhus/type-fest/pull/1310) | $\color{green}{+6}$  $\color{red}{-0}$ |
-| [View 94 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 95 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
