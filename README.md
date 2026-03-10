@@ -35,20 +35,20 @@ Here are some ideas to get you started:
 | PRs | | |
 | :--- | :--- | :--- |
 | Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}$  $\color{red}{-16}$ |
-| `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}$  $\color{red}{-6}$ |
 | Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}$  $\color{red}{-60}$ |
-| `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}$  $\color{red}{-12}$ |
+| `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}$  $\color{red}{-6}$ |
 | Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}$  $\color{red}{-120}$ |
+| `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}$  $\color{red}{-12}$ |
 | `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}$  $\color{red}{-6}$ |
 | `Paths`: Fix behavior with `WeakMap`s / `WeakSet`s | [#1348](https://github.com/sindresorhus/type-fest/pull/1348) | $\color{green}{+73}$  $\color{red}{-50}$ |
 | `Paths`: Fix behavior with tuples containing optional elements with a rest element | [#1346](https://github.com/sindresorhus/type-fest/pull/1346) | $\color{green}{+10}$  $\color{red}{-9}$ |
 | Fix incorrect ignore of temporary `.d.ts` files from fixtures in `xo.config.js` | [#1333](https://github.com/sindresorhus/type-fest/pull/1333) | $\color{green}{+1}$  $\color{red}{-4}$ |
 | `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) | $\color{green}{+52}$  $\color{red}{-46}$ |
 | `SimplifyDeep`: Fix behaviour with arrays | [#1337](https://github.com/sindresorhus/type-fest/pull/1337) | $\color{green}{+12}$  $\color{red}{-10}$ |
+| `FixedLengthArray`: Fix element type | [#1246](https://github.com/sindresorhus/type-fest/pull/1246) | $\color{green}{+142}$  $\color{red}{-23}$ |
 | `Merge`: Fix behavior with unions | [#1327](https://github.com/sindresorhus/type-fest/pull/1327) | $\color{green}{+32}$  $\color{red}{-6}$ |
 | Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}$  $\color{red}{-1}$ |
 | Ignore temporary `.d.ts` files from `fixtures` in `xo.config.js` | [#1326](https://github.com/sindresorhus/type-fest/pull/1326) | $\color{green}{+3}$  $\color{red}{-0}$ |
-| Sort numbers in unions while validating twoslash (`//=>`) types in codeblocks | [#1320](https://github.com/sindresorhus/type-fest/pull/1320) | $\color{green}{+135}$  $\color{red}{-33}$ |
 | [View 95 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 | Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | $\color{green}{+12}$  $\color{red}{-2}$ |
 | Fix: `MarkRequired` and `MarkWritable` types when `Keys` is `any` | [#421](https://github.com/ts-essentials/ts-essentials/pull/421) | $\color{green}{+11}$  $\color{red}{-2}$ |
 | Feat: Prettify output of Mark-* & Merge types | [#422](https://github.com/ts-essentials/ts-essentials/pull/422) | $\color{green}{+771}$  $\color{red}{-29}$ |
-| Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | $\color{green}{+22}$  $\color{red}{-5}$ |
 | Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | $\color{green}{+32}$  $\color{red}{-5}$ |
+| Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | $\color{green}{+22}$  $\color{red}{-5}$ |
 | Fix: Make `MarkOptional<Type, Keys extends keyof Type>` assignable to `Partial<Type>` | [#418](https://github.com/ts-essentials/ts-essentials/pull/418) | $\color{green}{+34}$  $\color{red}{-3}$ |
 | Fix: Failing `test:fix` script | [#417](https://github.com/ts-essentials/ts-essentials/pull/417) | $\color{green}{+1}$  $\color{red}{-1}$ |
 | Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures | [#416](https://github.com/ts-essentials/ts-essentials/pull/416) | $\color{green}{+123}$  $\color{red}{-34}$ |
