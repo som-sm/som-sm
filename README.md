@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| Add `SomeExtend` type | [#1380](https://github.com/sindresorhus/type-fest/pull/1380) | $\color{green}{+243}$  $\color{red}{-7}$ |
 | Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}$  $\color{red}{-16}$ |
 | Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}$  $\color{red}{-60}$ |
 | `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}$  $\color{red}{-6}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | `FixedLengthArray`: Fix element type | [#1246](https://github.com/sindresorhus/type-fest/pull/1246) | $\color{green}{+142}$  $\color{red}{-23}$ |
 | `Merge`: Fix behavior with unions | [#1327](https://github.com/sindresorhus/type-fest/pull/1327) | $\color{green}{+32}$  $\color{red}{-6}$ |
 | Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}$  $\color{red}{-1}$ |
-| Ignore temporary `.d.ts` files from `fixtures` in `xo.config.js` | [#1326](https://github.com/sindresorhus/type-fest/pull/1326) | $\color{green}{+3}$  $\color{red}{-0}$ |
-| [View 95 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 96 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
