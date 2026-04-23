@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | Add `UnionLength` type | [#1402](https://github.com/sindresorhus/type-fest/pull/1402) | $\color{green}{+55}\ \ \color{red}{-1}$ |
 | `UnionToTuple`: Fix behavior with large unions | [#1405](https://github.com/sindresorhus/type-fest/pull/1405) | $\color{green}{+12}\ \ \color{red}{-5}$ |
 | Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}\ \ \color{red}{-6}$ |
 | Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}\ \ \color{red}{-120}$ |
 | `GreaterThan` / `LessThan` / `GreaterThanOrEqual` / `LessThanOrEqual`: Fix behavior with the `number` type | [#1363](https://github.com/sindresorhus/type-fest/pull/1363) | $\color{green}{+94}\ \ \color{red}{-12}$ |
-| `Paths`: Fix `leavesOnly` behavior with `never` leaves | [#1350](https://github.com/sindresorhus/type-fest/pull/1350) | $\color{green}{+11}\ \ \color{red}{-6}$ |
-| [View 104 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 105 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
