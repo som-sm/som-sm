@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | $\color{green}{+28}\ \ \color{red}{-2}$ |
 | `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
 | `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | Add `UnionLength` type | [#1402](https://github.com/sindresorhus/type-fest/pull/1402) | $\color{green}{+55}\ \ \color{red}{-1}$ |
@@ -48,8 +49,7 @@ Here are some ideas to get you started:
 | Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}\ \ \color{red}{-16}$ |
 | Fix syntax for specifying types in certain JSDoc codeblocks | [#1362](https://github.com/sindresorhus/type-fest/pull/1362) | $\color{green}{+18}\ \ \color{red}{-60}$ |
 | `Paths`: Add more test cases for generic types | [#1370](https://github.com/sindresorhus/type-fest/pull/1370) | $\color{green}{+50}\ \ \color{red}{-6}$ |
-| Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}\ \ \color{red}{-120}$ |
-| [View 106 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 107 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
