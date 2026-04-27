@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
 | :--- | :--- | :--- |
+| Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | $\color{green}{+15}\ \ \color{red}{-6}$ |
 | Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) | $\color{green}{+26}\ \ \color{red}{-7}$ |
 | Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | $\color{green}{+44}\ \ \color{red}{-5}$ |
 | Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | $\color{green}{+12}\ \ \color{red}{-2}$ |
