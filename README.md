@@ -59,11 +59,14 @@ Here are some ideas to get you started:
 | Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | $\color{green}{+44}\ \ \color{red}{-5}$ |
 | Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | $\color{green}{+12}\ \ \color{red}{-2}$ |
 | Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | $\color{green}{+32}\ \ \color{red}{-5}$ |
+| Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | $\color{green}{+25}\ \ \color{red}{-13}$ |
+| Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | $\color{green}{+29}\ \ \color{red}{-3}$ |
 
 ### 📦 orta/vscode-twoslash-queries
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) | $\color{green}{+38}\ \ \color{red}{-20}$ |
+| Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) | $\color{green}{+23}\ \ \color{red}{-5}$ |
 
 ### 📦 sindresorhus/eslint-plugin-unicorn
 | PRs | | |
