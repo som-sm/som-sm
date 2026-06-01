@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
+| `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | $\color{green}{+11}\ \ \color{red}{-27}$ |
 | `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
 | `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | $\color{green}{+11}\ \ \color{red}{-5}$ |
 | `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | $\color{green}{+36}\ \ \color{red}{-10}$ |
@@ -47,9 +49,7 @@ Here are some ideas to get you started:
 | Upgrade to XO v2 | [#1393](https://github.com/sindresorhus/type-fest/pull/1393) | $\color{green}{+280}\ \ \color{red}{-266}$ |
 | Add `Absolute` type | [#1391](https://github.com/sindresorhus/type-fest/pull/1391) | $\color{green}{+153}\ \ \color{red}{-37}$ |
 | Disable `no-unnecessary-type-arguments` lint rule | [#1390](https://github.com/sindresorhus/type-fest/pull/1390) | $\color{green}{+3}\ \ \color{red}{-2}$ |
-| Add `AndAll` type | [#1383](https://github.com/sindresorhus/type-fest/pull/1383) | $\color{green}{+145}\ \ \color{red}{-2}$ |
-| Add `SomeExtend` type | [#1380](https://github.com/sindresorhus/type-fest/pull/1380) | $\color{green}{+243}\ \ \color{red}{-7}$ |
-| [View 110 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 112 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
