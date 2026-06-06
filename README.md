@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/eslint-plugin-unicorn
 | PRs | | |
 | :--- | :--- | :--- |
+| `prefer-string-raw`: Forbid unnecessary `String.raw` | [#2695](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2695) | $\color{green}{+636}\ \ \color{red}{-32}$ |
 | `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) | $\color{green}{+323}\ \ \color{red}{-12}$ |
 | Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | $\color{green}{+46}\ \ \color{red}{-0}$ |
 | `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | $\color{green}{+3}\ \ \color{red}{-18}$ |
