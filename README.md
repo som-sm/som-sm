@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
+| Allow adding `-Infinity` as a twoslash type in JSDoc codeblocks | [#1453](https://github.com/sindresorhus/type-fest/pull/1453) | $\color{green}{+44}\ \ \color{red}{-0}$ |
 | `StringRepeat`: Add support for generating really long strings | [#1447](https://github.com/sindresorhus/type-fest/pull/1447) | $\color{green}{+50}\ \ \color{red}{-19}$ |
 | Add `ExtractExactly` type | [#1445](https://github.com/sindresorhus/type-fest/pull/1445) | $\color{green}{+119}\ \ \color{red}{-2}$ |
 | Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
@@ -47,9 +49,7 @@ Here are some ideas to get you started:
 | Add `UnionLength` type | [#1402](https://github.com/sindresorhus/type-fest/pull/1402) | $\color{green}{+55}\ \ \color{red}{-1}$ |
 | `UnionToTuple`: Fix behavior with large unions | [#1405](https://github.com/sindresorhus/type-fest/pull/1405) | $\color{green}{+12}\ \ \color{red}{-5}$ |
 | Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
-| Add `NonNullableDeep` type | [#1401](https://github.com/sindresorhus/type-fest/pull/1401) | $\color{green}{+246}\ \ \color{red}{-3}$ |
-| Upgrade to XO v2 | [#1393](https://github.com/sindresorhus/type-fest/pull/1393) | $\color{green}{+280}\ \ \color{red}{-266}$ |
-| [View 114 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 116 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
