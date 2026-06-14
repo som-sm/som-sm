@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
+| Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
 | Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
 | Allow adding `-Infinity` as a twoslash type in JSDoc codeblocks | [#1453](https://github.com/sindresorhus/type-fest/pull/1453) | $\color{green}{+44}\ \ \color{red}{-0}$ |
 | `StringRepeat`: Add support for generating really long strings | [#1447](https://github.com/sindresorhus/type-fest/pull/1447) | $\color{green}{+50}\ \ \color{red}{-19}$ |
 | Add `ExtractExactly` type | [#1445](https://github.com/sindresorhus/type-fest/pull/1445) | $\color{green}{+119}\ \ \color{red}{-2}$ |
-| Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
 | `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | $\color{green}{+11}\ \ \color{red}{-27}$ |
-| `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
 | `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | $\color{green}{+11}\ \ \color{red}{-5}$ |
 | `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | $\color{green}{+36}\ \ \color{red}{-10}$ |
 | `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | $\color{green}{+28}\ \ \color{red}{-2}$ |
