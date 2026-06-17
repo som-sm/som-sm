@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### 📦 sindresorhus/type-fest
 | PRs | | |
 | :--- | :--- | :--- |
+| Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
+| Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
 | `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
 | Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
 | Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
@@ -47,9 +49,7 @@ Here are some ideas to get you started:
 | `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
 | `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | Add `UnionLength` type | [#1402](https://github.com/sindresorhus/type-fest/pull/1402) | $\color{green}{+55}\ \ \color{red}{-1}$ |
-| `UnionToTuple`: Fix behavior with large unions | [#1405](https://github.com/sindresorhus/type-fest/pull/1405) | $\color{green}{+12}\ \ \color{red}{-5}$ |
-| Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
-| [View 116 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 118 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
 ### 📦 ts-essentials/ts-essentials
 | PRs | | |
