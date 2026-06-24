@@ -34,69 +34,69 @@ Here are some ideas to get you started:
 <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=%E2%80%8Bsindresorhus/type-fest&style=flat-square&logo=github" alt="sindresorhus/type-fest" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
-| Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
-| Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
-| `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
-| Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
-| Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
-| Allow adding `-Infinity` as a twoslash type in JSDoc codeblocks | [#1453](https://github.com/sindresorhus/type-fest/pull/1453) | $\color{green}{+44}\ \ \color{red}{-0}$ |
-| `StringRepeat`: Add support for generating really long strings | [#1447](https://github.com/sindresorhus/type-fest/pull/1447) | $\color{green}{+50}\ \ \color{red}{-19}$ |
-| Add `ExtractExactly` type | [#1445](https://github.com/sindresorhus/type-fest/pull/1445) | $\color{green}{+119}\ \ \color{red}{-2}$ |
-| `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | $\color{green}{+11}\ \ \color{red}{-27}$ |
-| `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | $\color{green}{+11}\ \ \color{red}{-5}$ |
-| `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | $\color{green}{+36}\ \ \color{red}{-10}$ |
-| `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | $\color{green}{+28}\ \ \color{red}{-2}$ |
-| `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
-| `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
+| `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | ![+201](https://img.shields.io/badge/-%2B201-green?style=flat-square) ![-128](https://img.shields.io/badge/---128-red?style=flat-square) |
+| Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | ![+244](https://img.shields.io/badge/-%2B244-green?style=flat-square) ![-40](https://img.shields.io/badge/---40-red?style=flat-square) |
+| Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | ![+448](https://img.shields.io/badge/-%2B448-green?style=flat-square) ![-428](https://img.shields.io/badge/---428-red?style=flat-square) |
+| `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | ![+48](https://img.shields.io/badge/-%2B48-green?style=flat-square) ![-4](https://img.shields.io/badge/---4-red?style=flat-square) |
+| Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | ![+217](https://img.shields.io/badge/-%2B217-green?style=flat-square) ![-0](https://img.shields.io/badge/---0-red?style=flat-square) |
+| Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | ![+134](https://img.shields.io/badge/-%2B134-green?style=flat-square) ![-41](https://img.shields.io/badge/---41-red?style=flat-square) |
+| Allow adding `-Infinity` as a twoslash type in JSDoc codeblocks | [#1453](https://github.com/sindresorhus/type-fest/pull/1453) | ![+44](https://img.shields.io/badge/-%2B44-green?style=flat-square) ![-0](https://img.shields.io/badge/---0-red?style=flat-square) |
+| `StringRepeat`: Add support for generating really long strings | [#1447](https://github.com/sindresorhus/type-fest/pull/1447) | ![+50](https://img.shields.io/badge/-%2B50-green?style=flat-square) ![-19](https://img.shields.io/badge/---19-red?style=flat-square) |
+| Add `ExtractExactly` type | [#1445](https://github.com/sindresorhus/type-fest/pull/1445) | ![+119](https://img.shields.io/badge/-%2B119-green?style=flat-square) ![-2](https://img.shields.io/badge/---2-red?style=flat-square) |
+| `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | ![+11](https://img.shields.io/badge/-%2B11-green?style=flat-square) ![-27](https://img.shields.io/badge/---27-red?style=flat-square) |
+| `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | ![+11](https://img.shields.io/badge/-%2B11-green?style=flat-square) ![-5](https://img.shields.io/badge/---5-red?style=flat-square) |
+| `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | ![+36](https://img.shields.io/badge/-%2B36-green?style=flat-square) ![-10](https://img.shields.io/badge/---10-red?style=flat-square) |
+| `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | ![+28](https://img.shields.io/badge/-%2B28-green?style=flat-square) ![-2](https://img.shields.io/badge/---2-red?style=flat-square) |
+| `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | ![+180](https://img.shields.io/badge/-%2B180-green?style=flat-square) ![-26](https://img.shields.io/badge/---26-red?style=flat-square) |
+| `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | ![+3](https://img.shields.io/badge/-%2B3-green?style=flat-square) ![-4](https://img.shields.io/badge/---4-red?style=flat-square) |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 <br>
 
 <a href="https://github.com/ts-essentials/ts-essentials/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/ts-essentials/ts-essentials?label=%E2%80%8Bts-essentials/ts-essentials&style=flat-square&logo=github" alt="ts-essentials/ts-essentials" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | $\color{green}{+15}\ \ \color{red}{-6}$ |
-| Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) | $\color{green}{+26}\ \ \color{red}{-7}$ |
-| Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | $\color{green}{+44}\ \ \color{red}{-5}$ |
-| Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | $\color{green}{+12}\ \ \color{red}{-2}$ |
-| Fix: `MarkRequired` and `MarkWritable` types when `Keys` is `any` | [#421](https://github.com/ts-essentials/ts-essentials/pull/421) | $\color{green}{+11}\ \ \color{red}{-2}$ |
-| Feat: Prettify output of Mark-* & Merge types | [#422](https://github.com/ts-essentials/ts-essentials/pull/422) | $\color{green}{+771}\ \ \color{red}{-29}$ |
-| Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | $\color{green}{+32}\ \ \color{red}{-5}$ |
-| Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | $\color{green}{+22}\ \ \color{red}{-5}$ |
-| Fix: Make `MarkOptional<Type, Keys extends keyof Type>` assignable to `Partial<Type>` | [#418](https://github.com/ts-essentials/ts-essentials/pull/418) | $\color{green}{+34}\ \ \color{red}{-3}$ |
-| Fix: Failing `test:fix` script | [#417](https://github.com/ts-essentials/ts-essentials/pull/417) | $\color{green}{+1}\ \ \color{red}{-1}$ |
-| Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures | [#416](https://github.com/ts-essentials/ts-essentials/pull/416) | $\color{green}{+123}\ \ \color{red}{-34}$ |
-| Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | $\color{green}{+25}\ \ \color{red}{-13}$ |
-| Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | $\color{green}{+29}\ \ \color{red}{-3}$ |
+| Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | ![+15](https://img.shields.io/badge/-%2B15-green?style=flat-square) ![-6](https://img.shields.io/badge/---6-red?style=flat-square) |
+| Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) | ![+26](https://img.shields.io/badge/-%2B26-green?style=flat-square) ![-7](https://img.shields.io/badge/---7-red?style=flat-square) |
+| Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | ![+44](https://img.shields.io/badge/-%2B44-green?style=flat-square) ![-5](https://img.shields.io/badge/---5-red?style=flat-square) |
+| Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | ![+12](https://img.shields.io/badge/-%2B12-green?style=flat-square) ![-2](https://img.shields.io/badge/---2-red?style=flat-square) |
+| Fix: `MarkRequired` and `MarkWritable` types when `Keys` is `any` | [#421](https://github.com/ts-essentials/ts-essentials/pull/421) | ![+11](https://img.shields.io/badge/-%2B11-green?style=flat-square) ![-2](https://img.shields.io/badge/---2-red?style=flat-square) |
+| Feat: Prettify output of Mark-* & Merge types | [#422](https://github.com/ts-essentials/ts-essentials/pull/422) | ![+771](https://img.shields.io/badge/-%2B771-green?style=flat-square) ![-29](https://img.shields.io/badge/---29-red?style=flat-square) |
+| Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | ![+32](https://img.shields.io/badge/-%2B32-green?style=flat-square) ![-5](https://img.shields.io/badge/---5-red?style=flat-square) |
+| Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | ![+22](https://img.shields.io/badge/-%2B22-green?style=flat-square) ![-5](https://img.shields.io/badge/---5-red?style=flat-square) |
+| Fix: Make `MarkOptional<Type, Keys extends keyof Type>` assignable to `Partial<Type>` | [#418](https://github.com/ts-essentials/ts-essentials/pull/418) | ![+34](https://img.shields.io/badge/-%2B34-green?style=flat-square) ![-3](https://img.shields.io/badge/---3-red?style=flat-square) |
+| Fix: Failing `test:fix` script | [#417](https://github.com/ts-essentials/ts-essentials/pull/417) | ![+1](https://img.shields.io/badge/-%2B1-green?style=flat-square) ![-1](https://img.shields.io/badge/---1-red?style=flat-square) |
+| Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures | [#416](https://github.com/ts-essentials/ts-essentials/pull/416) | ![+123](https://img.shields.io/badge/-%2B123-green?style=flat-square) ![-34](https://img.shields.io/badge/---34-red?style=flat-square) |
+| Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | ![+25](https://img.shields.io/badge/-%2B25-green?style=flat-square) ![-13](https://img.shields.io/badge/---13-red?style=flat-square) |
+| Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | ![+29](https://img.shields.io/badge/-%2B29-green?style=flat-square) ![-3](https://img.shields.io/badge/---3-red?style=flat-square) |
 <br>
 
 <a href="https://github.com/orta/vscode-twoslash-queries/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/orta/vscode-twoslash-queries?label=%E2%80%8Borta/vscode-twoslash-queries&style=flat-square&logo=github" alt="orta/vscode-twoslash-queries" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) | $\color{green}{+38}\ \ \color{red}{-20}$ |
-| Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) | $\color{green}{+23}\ \ \color{red}{-5}$ |
-| Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) | $\color{green}{+10}\ \ \color{red}{-2}$ |
-| Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) | $\color{green}{+36}\ \ \color{red}{-4}$ |
+| Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) | ![+38](https://img.shields.io/badge/-%2B38-green?style=flat-square) ![-20](https://img.shields.io/badge/---20-red?style=flat-square) |
+| Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) | ![+23](https://img.shields.io/badge/-%2B23-green?style=flat-square) ![-5](https://img.shields.io/badge/---5-red?style=flat-square) |
+| Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) | ![+10](https://img.shields.io/badge/-%2B10-green?style=flat-square) ![-2](https://img.shields.io/badge/---2-red?style=flat-square) |
+| Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) | ![+36](https://img.shields.io/badge/-%2B36-green?style=flat-square) ![-4](https://img.shields.io/badge/---4-red?style=flat-square) |
 <br>
 
 <a href="https://github.com/sindresorhus/eslint-plugin-unicorn/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn?label=%E2%80%8Bsindresorhus/eslint-plugin-unicorn&style=flat-square&logo=github" alt="sindresorhus/eslint-plugin-unicorn" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| `prefer-string-raw`: Forbid unnecessary `String.raw` | [#2695](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2695) | $\color{green}{+636}\ \ \color{red}{-32}$ |
-| `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) | $\color{green}{+323}\ \ \color{red}{-12}$ |
-| Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | $\color{green}{+46}\ \ \color{red}{-0}$ |
-| `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | $\color{green}{+3}\ \ \color{red}{-18}$ |
+| `prefer-string-raw`: Forbid unnecessary `String.raw` | [#2695](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2695) | ![+636](https://img.shields.io/badge/-%2B636-green?style=flat-square) ![-32](https://img.shields.io/badge/---32-red?style=flat-square) |
+| `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) | ![+323](https://img.shields.io/badge/-%2B323-green?style=flat-square) ![-12](https://img.shields.io/badge/---12-red?style=flat-square) |
+| Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | ![+46](https://img.shields.io/badge/-%2B46-green?style=flat-square) ![-0](https://img.shields.io/badge/---0-red?style=flat-square) |
+| `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | ![+3](https://img.shields.io/badge/-%2B3-green?style=flat-square) ![-18](https://img.shields.io/badge/---18-red?style=flat-square) |
 <br>
 
 <a href="https://github.com/xojs/xo/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/xojs/xo?label=%E2%80%8Bxojs/xo&style=flat-square&logo=github" alt="xojs/xo" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) | $\color{green}{+19}\ \ \color{red}{-1}$ |
-| Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) | $\color{green}{+55}\ \ \color{red}{-6}$ |
+| Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) | ![+19](https://img.shields.io/badge/-%2B19-green?style=flat-square) ![-1](https://img.shields.io/badge/---1-red?style=flat-square) |
+| Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) | ![+55](https://img.shields.io/badge/-%2B55-green?style=flat-square) ![-6](https://img.shields.io/badge/---6-red?style=flat-square) |
 <br>
 
 <a href="https://github.com/DavidHDev/haiku/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/DavidHDev/haiku?label=%E2%80%8BDavidHDev/haiku&style=flat-square&logo=github" alt="DavidHDev/haiku" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| Fix `useLeaveDetection` to always invoke latest callback | [#123](https://github.com/DavidHDev/haiku/pull/123) | $\color{green}{+83}\ \ \color{red}{-3}$ |
+| Fix `useLeaveDetection` to always invoke latest callback | [#123](https://github.com/DavidHDev/haiku/pull/123) | ![+83](https://img.shields.io/badge/-%2B83-green?style=flat-square) ![-3](https://img.shields.io/badge/---3-red?style=flat-square) |
 <!-- OSS_CONTRIBUTIONS:END -->
