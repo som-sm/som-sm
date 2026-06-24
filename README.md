@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- OSS_CONTRIBUTIONS:START -->
 ## 🧩 Open Source Contributions
 
-
+<br>
 <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=%E2%80%8Bsindresorhus/type-fest&style=flat-square&logo=github" alt="sindresorhus/type-fest" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
 | `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
-
+<br>
 <a href="https://github.com/ts-essentials/ts-essentials/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/ts-essentials/ts-essentials?label=%E2%80%8Bts-essentials/ts-essentials&style=flat-square&logo=github" alt="ts-essentials/ts-essentials" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 | Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures | [#416](https://github.com/ts-essentials/ts-essentials/pull/416) | $\color{green}{+123}\ \ \color{red}{-34}$ |
 | Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | $\color{green}{+25}\ \ \color{red}{-13}$ |
 | Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | $\color{green}{+29}\ \ \color{red}{-3}$ |
-
+<br>
 <a href="https://github.com/orta/vscode-twoslash-queries/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/orta/vscode-twoslash-queries?label=%E2%80%8Borta/vscode-twoslash-queries&style=flat-square&logo=github" alt="orta/vscode-twoslash-queries" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) | $\color{green}{+23}\ \ \color{red}{-5}$ |
 | Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) | $\color{green}{+10}\ \ \color{red}{-2}$ |
 | Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) | $\color{green}{+36}\ \ \color{red}{-4}$ |
-
+<br>
 <a href="https://github.com/sindresorhus/eslint-plugin-unicorn/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn?label=%E2%80%8Bsindresorhus/eslint-plugin-unicorn&style=flat-square&logo=github" alt="sindresorhus/eslint-plugin-unicorn" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 | `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) | $\color{green}{+323}\ \ \color{red}{-12}$ |
 | Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | $\color{green}{+46}\ \ \color{red}{-0}$ |
 | `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | $\color{green}{+3}\ \ \color{red}{-18}$ |
-
+<br>
 <a href="https://github.com/xojs/xo/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/xojs/xo?label=%E2%80%8Bxojs/xo&style=flat-square&logo=github" alt="xojs/xo" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) | $\color{green}{+19}\ \ \color{red}{-1}$ |
 | Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) | $\color{green}{+55}\ \ \color{red}{-6}$ |
-
+<br>
 <a href="https://github.com/DavidHDev/haiku/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/github/stars/DavidHDev/haiku?label=%E2%80%8BDavidHDev/haiku&style=flat-square&logo=github" alt="DavidHDev/haiku" style="height:26px"></a>
 | PRs | | |
 | :--- | :--- | :--- |
