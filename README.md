@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🧩 Open Source Contributions
 
 
-### 📦 sindresorhus/type-fest
+### 📦 sindresorhus/type-fest ![stars](https://img.shields.io/badge/⭐_17.2k-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 | `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
-### 📦 ts-essentials/ts-essentials
+### 📦 ts-essentials/ts-essentials ![stars](https://img.shields.io/badge/⭐_4.1k-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | $\color{green}{+15}\ \ \color{red}{-6}$ |
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 | Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | $\color{green}{+25}\ \ \color{red}{-13}$ |
 | Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | $\color{green}{+29}\ \ \color{red}{-3}$ |
 
-### 📦 orta/vscode-twoslash-queries
+### 📦 orta/vscode-twoslash-queries ![stars](https://img.shields.io/badge/⭐_458-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) | $\color{green}{+38}\ \ \color{red}{-20}$ |
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 | Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) | $\color{green}{+10}\ \ \color{red}{-2}$ |
 | Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) | $\color{green}{+36}\ \ \color{red}{-4}$ |
 
-### 📦 sindresorhus/eslint-plugin-unicorn
+### 📦 sindresorhus/eslint-plugin-unicorn ![stars](https://img.shields.io/badge/⭐_5.1k-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | `prefer-string-raw`: Forbid unnecessary `String.raw` | [#2695](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2695) | $\color{green}{+636}\ \ \color{red}{-32}$ |
@@ -84,13 +84,13 @@ Here are some ideas to get you started:
 | Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | $\color{green}{+46}\ \ \color{red}{-0}$ |
 | `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | $\color{green}{+3}\ \ \color{red}{-18}$ |
 
-### 📦 xojs/xo
+### 📦 xojs/xo ![stars](https://img.shields.io/badge/⭐_8.0k-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) | $\color{green}{+19}\ \ \color{red}{-1}$ |
 | Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) | $\color{green}{+55}\ \ \color{red}{-6}$ |
 
-### 📦 DavidHDev/haiku
+### 📦 DavidHDev/haiku ![stars](https://img.shields.io/badge/⭐_995-grey)
 | PRs | | |
 | :--- | :--- | :--- |
 | Fix `useLeaveDetection` to always invoke latest callback | [#123](https://github.com/DavidHDev/haiku/pull/123) | $\color{green}{+83}\ \ \color{red}{-3}$ |
