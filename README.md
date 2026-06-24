@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ## 🧩 Open Source Contributions
 
 
-### 📦 sindresorhus/type-fest ⭐ 17.2K
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 sindresorhus/type-fest
+| PRs | | ⭐ 17.2K |
+| :--- | :--- | ---: |
 | `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
 | Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
 | Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 | `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 
-### 📦 ts-essentials/ts-essentials ⭐ 4.1K
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 ts-essentials/ts-essentials
+| PRs | | ⭐ 4.1K |
+| :--- | :--- | ---: |
 | Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | $\color{green}{+15}\ \ \color{red}{-6}$ |
 | Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) | $\color{green}{+26}\ \ \color{red}{-7}$ |
 | Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | $\color{green}{+44}\ \ \color{red}{-5}$ |
@@ -68,30 +68,30 @@ Here are some ideas to get you started:
 | Fix: Behaviour of `OptionalKeys` when instantiated with primitives and arrays | [#414](https://github.com/ts-essentials/ts-essentials/pull/414) | $\color{green}{+25}\ \ \color{red}{-13}$ |
 | Fix: Behaviour of `Prettify` when instantiated with functions | [#415](https://github.com/ts-essentials/ts-essentials/pull/415) | $\color{green}{+29}\ \ \color{red}{-3}$ |
 
-### 📦 orta/vscode-twoslash-queries ⭐ 458
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 orta/vscode-twoslash-queries
+| PRs | | ⭐ 458 |
+| :--- | :--- | ---: |
 | Fix query insertion with multiple cursors | [#49](https://github.com/orta/vscode-twoslash-queries/pull/49) | $\color{green}{+38}\ \ \color{red}{-20}$ |
 | Allow `CMD+6` shortcut to position queries based on previous line's first available hint | [#44](https://github.com/orta/vscode-twoslash-queries/pull/44) | $\color{green}{+23}\ \ \color{red}{-5}$ |
 | Disable inlay hints when there are characters following ^? | [#42](https://github.com/orta/vscode-twoslash-queries/pull/42) | $\color{green}{+10}\ \ \color{red}{-2}$ |
 | Add command for inline comment (// =>) | [#41](https://github.com/orta/vscode-twoslash-queries/pull/41) | $\color{green}{+36}\ \ \color{red}{-4}$ |
 
-### 📦 sindresorhus/eslint-plugin-unicorn ⭐ 5.1K
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 sindresorhus/eslint-plugin-unicorn
+| PRs | | ⭐ 5.1K |
+| :--- | :--- | ---: |
 | `prefer-string-raw`: Forbid unnecessary `String.raw` | [#2695](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2695) | $\color{green}{+636}\ \ \color{red}{-32}$ |
 | `prefer-string-raw`: Add support for template literals | [#2691](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2691) | $\color{green}{+323}\ \ \color{red}{-12}$ |
 | Add more test cases for `prefer-string-raw` rule | [#2690](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2690) | $\color{green}{+46}\ \ \color{red}{-0}$ |
 | `prefer-string-raw`: Refactor implementation of helper function | [#2692](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2692) | $\color{green}{+3}\ \ \color{red}{-18}$ |
 
-### 📦 xojs/xo ⭐ 8K
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 xojs/xo
+| PRs | | ⭐ 8K |
+| :--- | :--- | ---: |
 | Fix: Behaviour of `print-config` option with relative file path | [#816](https://github.com/xojs/xo/pull/816) | $\color{green}{+19}\ \ \color{red}{-1}$ |
 | Fix: Error while loading configs with custom plugins | [#805](https://github.com/xojs/xo/pull/805) | $\color{green}{+55}\ \ \color{red}{-6}$ |
 
-### 📦 DavidHDev/haiku ⭐ 995
-| PRs | | |
-| :--- | :--- | :--- |
+### 📦 DavidHDev/haiku
+| PRs | | ⭐ 995 |
+| :--- | :--- | ---: |
 | Fix `useLeaveDetection` to always invoke latest callback | [#123](https://github.com/DavidHDev/haiku/pull/123) | $\color{green}{+83}\ \ \color{red}{-3}$ |
 <!-- OSS_CONTRIBUTIONS:END -->
