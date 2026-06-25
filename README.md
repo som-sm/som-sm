@@ -43,14 +43,15 @@ Here are some ideas to get you started:
 | 📌 Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}\ \ \color{red}{-1}$ |
 | 📌 Add lint rule to validate JSDoc codeblocks using TS compiler | [#1265](https://github.com/sindresorhus/type-fest/pull/1265) | $\color{green}{+1389}\ \ \color{red}{-401}$ |
 | 📌 `IsStringLiteral`: Fix instantiations with infinite string types | [#1044](https://github.com/sindresorhus/type-fest/pull/1044) | $\color{green}{+78}\ \ \color{red}{-1}$ |
-| 📌 `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
-| 📌 Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
-| 📌 Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
-| 📌 `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
-| 📌 Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
-| 📌 Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
+| 📌 `PickIndexSignature`/`OmitIndexSignature`: Clean up JSDoc comments | [#1039](https://github.com/sindresorhus/type-fest/pull/1039) | $\color{green}{+0}\ \ \color{red}{-64}$ |
+| 📌 `SetRequiredDeep`: Fix handling of unions in nested keys | [#1037](https://github.com/sindresorhus/type-fest/pull/1037) | $\color{green}{+177}\ \ \color{red}{-33}$ |
+| 📌 `Sum`/`Subtract`: Fix instantiations with unions | [#1034](https://github.com/sindresorhus/type-fest/pull/1034) | $\color{green}{+17}\ \ \color{red}{-3}$ |
+| 📌 `Except`: Add another example to JSDoc | [#1040](https://github.com/sindresorhus/type-fest/pull/1040) | $\color{green}{+20}\ \ \color{red}{-0}$ |
+| 📌 `Paths`: Add `leavesOnly` option | [#1050](https://github.com/sindresorhus/type-fest/pull/1050) | $\color{green}{+135}\ \ \color{red}{-2}$ |
+| 📌 `OmitDeep`: Fix import statement | [#1052](https://github.com/sindresorhus/type-fest/pull/1052) | $\color{green}{+1}\ \ \color{red}{-1}$ |
 | 📌 `OmitDeep`: Fix removal of multiple paths within arrays | [#1049](https://github.com/sindresorhus/type-fest/pull/1049) | $\color{green}{+18}\ \ \color{red}{-4}$ |
 | 📌 `StringRepeat`: Add support for generating longer strings & fix instantiations with unions | [#1046](https://github.com/sindresorhus/type-fest/pull/1046) | $\color{green}{+34}\ \ \color{red}{-12}$ |
+| `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 <br>
 
