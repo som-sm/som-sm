@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/sindresorhus/type-fest"><img src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=%E2%80%8Bsindresorhus/type-fest&style=flat-square&logo=github" alt="sindresorhus/type-fest" style="height:24px"></a> <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/badge/Merged%20PRs-134-blue?style=flat-square" alt="Merged PRs" style="height:24px"/></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| 📌 Enable lint rule to enforce consistent import style | [#1004](https://github.com/sindresorhus/type-fest/pull/1004) | $\color{green}{+3}\ \ \color{red}{-2}$ |
-| 📌 Add lint rule to prevent unintended imports in declaration files | [#1053](https://github.com/sindresorhus/type-fest/pull/1053) | $\color{green}{+13}\ \ \color{red}{-1}$ |
-| 📌 Add lint rule to validate JSDoc codeblocks using TS compiler | [#1265](https://github.com/sindresorhus/type-fest/pull/1265) | $\color{green}{+1389}\ \ \color{red}{-401}$ |
 | `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
 | Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
 | Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
@@ -49,20 +46,23 @@ Here are some ideas to get you started:
 | `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | $\color{green}{+11}\ \ \color{red}{-27}$ |
 | `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | $\color{green}{+11}\ \ \color{red}{-5}$ |
 | `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | $\color{green}{+36}\ \ \color{red}{-10}$ |
+| `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | $\color{green}{+28}\ \ \color{red}{-2}$ |
+| `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
+| `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 <br>
 
 <a href="https://github.com/ts-essentials/ts-essentials"><img src="https://img.shields.io/github/stars/ts-essentials/ts-essentials?label=%E2%80%8Bts-essentials/ts-essentials&style=flat-square&logo=github" alt="ts-essentials/ts-essentials" style="height:24px"></a> <a href="https://github.com/ts-essentials/ts-essentials/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/badge/Merged%20PRs-13-blue?style=flat-square" alt="Merged PRs" style="height:24px"/></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| 📌 Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | $\color{green}{+22}\ \ \color{red}{-5}$ |
-| 📌 Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | $\color{green}{+32}\ \ \color{red}{-5}$ |
 | Fix: `DeepPartial<Type>` when `Type` is an array containing rest element | [#469](https://github.com/ts-essentials/ts-essentials/pull/469) | $\color{green}{+15}\ \ \color{red}{-6}$ |
 | Fix: `Prettify` when instantiated with classes containing private/protected members | [#450](https://github.com/ts-essentials/ts-essentials/pull/450) | $\color{green}{+26}\ \ \color{red}{-7}$ |
 | Fix: `IsTuple<Type>` when `Type` is an array containing rest element | [#436](https://github.com/ts-essentials/ts-essentials/pull/436) | $\color{green}{+44}\ \ \color{red}{-5}$ |
 | Fix: `DeepReadonly<Type>` & `DeepRequired<Type>` when `Type` is an array containing rest element | [#435](https://github.com/ts-essentials/ts-essentials/pull/435) | $\color{green}{+12}\ \ \color{red}{-2}$ |
 | Fix: `MarkRequired` and `MarkWritable` types when `Keys` is `any` | [#421](https://github.com/ts-essentials/ts-essentials/pull/421) | $\color{green}{+11}\ \ \color{red}{-2}$ |
 | Feat: Prettify output of Mark-* & Merge types | [#422](https://github.com/ts-essentials/ts-essentials/pull/422) | $\color{green}{+771}\ \ \color{red}{-29}$ |
+| Fix: `Tail` with optional, readonly and non-tuple arrays | [#424](https://github.com/ts-essentials/ts-essentials/pull/424) | $\color{green}{+32}\ \ \color{red}{-5}$ |
+| Fix: `Head` type with union of empty and non-empty tuple | [#425](https://github.com/ts-essentials/ts-essentials/pull/425) | $\color{green}{+22}\ \ \color{red}{-5}$ |
 | Fix: Make `MarkOptional<Type, Keys extends keyof Type>` assignable to `Partial<Type>` | [#418](https://github.com/ts-essentials/ts-essentials/pull/418) | $\color{green}{+34}\ \ \color{red}{-3}$ |
 | Fix: Failing `test:fix` script | [#417](https://github.com/ts-essentials/ts-essentials/pull/417) | $\color{green}{+1}\ \ \color{red}{-1}$ |
 | Fix: `ReadonlyKeys` and `WritableKeys` types with unions, arrays and index signatures | [#416](https://github.com/ts-essentials/ts-essentials/pull/416) | $\color{green}{+123}\ \ \color{red}{-34}$ |
