@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/sindresorhus/type-fest"><img src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=%E2%80%8Bsindresorhus/type-fest&style=flat-square&logo=github" alt="sindresorhus/type-fest" style="height:24px"></a> <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/badge/Merged%20PRs-134-blue?style=flat-square" alt="Merged PRs" style="height:24px"/></a>
 | PRs | | |
 | :--- | :--- | :--- |
-| 📌 Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
+| 📌 Add lint rule to validate JSDoc codeblocks using TS compiler | [#1265](https://github.com/sindresorhus/type-fest/pull/1265) | $\color{green}{+1389}\ \ \color{red}{-401}$ |
+| 📌 Add custom processor to lint JSDoc codeblocks | [#1300](https://github.com/sindresorhus/type-fest/pull/1300) | $\color{green}{+2137}\ \ \color{red}{-365}$ |
+| 📌 Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}\ \ \color{red}{-207}$ |
 | 📌 Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}\ \ \color{red}{-16}$ |
 | 📌 Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}\ \ \color{red}{-120}$ |
+| 📌 Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
 | 📌 `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) | $\color{green}{+52}\ \ \color{red}{-46}$ |
-| 📌 Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}\ \ \color{red}{-207}$ |
-| 📌 Add custom processor to lint JSDoc codeblocks | [#1300](https://github.com/sindresorhus/type-fest/pull/1300) | $\color{green}{+2137}\ \ \color{red}{-365}$ |
 | 📌 Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}\ \ \color{red}{-1}$ |
-| 📌 Add lint rule to validate JSDoc codeblocks using TS compiler | [#1265](https://github.com/sindresorhus/type-fest/pull/1265) | $\color{green}{+1389}\ \ \color{red}{-401}$ |
 | 📌 `IsStringLiteral`: Fix instantiations with infinite string types | [#1044](https://github.com/sindresorhus/type-fest/pull/1044) | $\color{green}{+78}\ \ \color{red}{-1}$ |
 | `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
 | Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
