@@ -34,21 +34,21 @@ Here are some ideas to get you started:
 <a href="https://github.com/sindresorhus/type-fest"><img src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=%E2%80%8Bsindresorhus/type-fest&style=flat-square&logo=github" alt="sindresorhus/type-fest" style="height:24px"></a> <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/badge/Merged%20PRs-134-blue?style=flat-square" alt="Merged PRs" style="height:24px"/></a>
 | PRs | | |
 | :--- | :--- | :--- |
+| 📌 Add lint rule to validate type descriptions in README | [#1396](https://github.com/sindresorhus/type-fest/pull/1396) | $\color{green}{+425}\ \ \color{red}{-124}$ |
+| 📌 Validate twoslash types against different verbosity levels | [#1364](https://github.com/sindresorhus/type-fest/pull/1364) | $\color{green}{+178}\ \ \color{red}{-16}$ |
+| 📌 Make twoslash (`\\=>`) type validation agnostic of union order | [#1347](https://github.com/sindresorhus/type-fest/pull/1347) | $\color{green}{+495}\ \ \color{red}{-120}$ |
+| 📌 `Paths`: Fix behavior with generic types | [#1343](https://github.com/sindresorhus/type-fest/pull/1343) | $\color{green}{+52}\ \ \color{red}{-46}$ |
+| 📌 Add linting to validate types specified via twoslash (`//=>`) inside JSDoc codeblocks | [#1309](https://github.com/sindresorhus/type-fest/pull/1309) | $\color{green}{+1231}\ \ \color{red}{-207}$ |
+| 📌 Add custom processor to lint JSDoc codeblocks | [#1300](https://github.com/sindresorhus/type-fest/pull/1300) | $\color{green}{+2137}\ \ \color{red}{-365}$ |
+| 📌 Add `ObjectMerge` type | [#1324](https://github.com/sindresorhus/type-fest/pull/1324) | $\color{green}{+539}\ \ \color{red}{-1}$ |
+| 📌 Add lint rule to validate JSDoc codeblocks using TS compiler | [#1265](https://github.com/sindresorhus/type-fest/pull/1265) | $\color{green}{+1389}\ \ \color{red}{-401}$ |
+| 📌 `IsStringLiteral`: Fix instantiations with infinite string types | [#1044](https://github.com/sindresorhus/type-fest/pull/1044) | $\color{green}{+78}\ \ \color{red}{-1}$ |
 | `IfNotAnyOrNever`: Lazily evaluate different conditional branches | [#1462](https://github.com/sindresorhus/type-fest/pull/1462) | $\color{green}{+201}\ \ \color{red}{-128}$ |
 | Add `StringToArray` and `StringLength` types | [#1457](https://github.com/sindresorhus/type-fest/pull/1457) | $\color{green}{+244}\ \ \color{red}{-40}$ |
 | Migrate to snapshot testing for `lint-processors/jsdoc-codeblocks.test.js` | [#1460](https://github.com/sindresorhus/type-fest/pull/1460) | $\color{green}{+448}\ \ \color{red}{-428}$ |
 | `DelimiterCase`: Fix behavior with non-single character delimiters | [#1424](https://github.com/sindresorhus/type-fest/pull/1424) | $\color{green}{+48}\ \ \color{red}{-4}$ |
 | Add `RemoveSuffix` type | [#1439](https://github.com/sindresorhus/type-fest/pull/1439) | $\color{green}{+217}\ \ \color{red}{-0}$ |
 | Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
-| Allow adding `-Infinity` as a twoslash type in JSDoc codeblocks | [#1453](https://github.com/sindresorhus/type-fest/pull/1453) | $\color{green}{+44}\ \ \color{red}{-0}$ |
-| `StringRepeat`: Add support for generating really long strings | [#1447](https://github.com/sindresorhus/type-fest/pull/1447) | $\color{green}{+50}\ \ \color{red}{-19}$ |
-| Add `ExtractExactly` type | [#1445](https://github.com/sindresorhus/type-fest/pull/1445) | $\color{green}{+119}\ \ \color{red}{-2}$ |
-| `RemovePrefix`: Remove incorrect optimisation and always fallback to `string` for non-literal prefixes | [#1438](https://github.com/sindresorhus/type-fest/pull/1438) | $\color{green}{+11}\ \ \color{red}{-27}$ |
-| `RemovePrefix`: Fix `any` prefix behavior in non-strict mode | [#1423](https://github.com/sindresorhus/type-fest/pull/1423) | $\color{green}{+11}\ \ \color{red}{-5}$ |
-| `DelimiterCase`: Fix behavior with union delimiters | [#1422](https://github.com/sindresorhus/type-fest/pull/1422) | $\color{green}{+36}\ \ \color{red}{-10}$ |
-| `ApplyDefaultOptions`: Fix behavior with generic instantiations & `any` values | [#1411](https://github.com/sindresorhus/type-fest/pull/1411) | $\color{green}{+28}\ \ \color{red}{-2}$ |
-| `ExtendsStrict`: Add `distributiveUnions`, `strictNever` & `strictAny` options | [#1408](https://github.com/sindresorhus/type-fest/pull/1408) | $\color{green}{+180}\ \ \color{red}{-26}$ |
-| `ApplyDefaultOptions`: Fix behavior with explicit `undefined` | [#1407](https://github.com/sindresorhus/type-fest/pull/1407) | $\color{green}{+3}\ \ \color{red}{-4}$ |
 | [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 <br>
 
