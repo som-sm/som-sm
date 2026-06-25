@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 | 📌 Add `StringToNumber` type | [#1446](https://github.com/sindresorhus/type-fest/pull/1446) | $\color{green}{+134}\ \ \color{red}{-41}$ |
 | 📌 `OmitDeep`: Fix removal of multiple paths within arrays | [#1049](https://github.com/sindresorhus/type-fest/pull/1049) | $\color{green}{+18}\ \ \color{red}{-4}$ |
 | 📌 `StringRepeat`: Add support for generating longer strings & fix instantiations with unions | [#1046](https://github.com/sindresorhus/type-fest/pull/1046) | $\color{green}{+34}\ \ \color{red}{-12}$ |
-| [View 119 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
+| [View 117 more PRs](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm) | | |
 <br>
 
 <a href="https://github.com/ts-essentials/ts-essentials"><img src="https://img.shields.io/github/stars/ts-essentials/ts-essentials?label=%E2%80%8Bts-essentials/ts-essentials&style=flat-square&logo=github" alt="ts-essentials/ts-essentials" style="height:24px"></a> <a href="https://github.com/ts-essentials/ts-essentials/pulls?q=is%3Apr%20is%3Amerged%20author%3Asom-sm"><img src="https://img.shields.io/badge/Merged%20PRs-13-blue?style=flat-square" alt="Merged PRs" style="height:24px"/></a>
